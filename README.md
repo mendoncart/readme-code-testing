@@ -1,4 +1,4 @@
-# Readme code testing example
+# Readme code testing exampleA
 
 ![Test code and embed into README](https://github.com/tokusumi/readme-code-testing/workflows/Test%20code%20and%20embed%20into%20README/badge.svg)
 
